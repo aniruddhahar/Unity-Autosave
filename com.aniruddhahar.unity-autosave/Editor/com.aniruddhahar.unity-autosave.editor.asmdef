@@ -1,0 +1,19 @@
+{
+    "name": "com.aniruddhahar.unity-autosave.editor",
+    "references": [
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:397dc8d5179b69d4bb5f04160784c158"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "XboxOne"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

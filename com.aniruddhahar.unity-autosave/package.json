@@ -1,0 +1,22 @@
+{
+  "name": "com.aniruddhahar.unity-autosave",
+  "version": "0.1.0",
+  "displayName": "Autosave for Unity",
+  "description": "This is a simple autosave plugin for unity using Editor Coroutines to save scenes at a customizable intervals as well as before entering Play mode.",
+  "unity": "2018.1",
+  "unityRelease": "0f2",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [
+    "Autosave",
+    "Auto",
+    "save"
+  ],
+  "author": {
+    "name": "Aniruddha Hardikar",
+    "email": "aniruddha.har@gmail.com",
+    "url": "https://github.com/aniruddhahar"
+  },
+  "type": "tests"
+}

@@ -3,10 +3,10 @@
 This project utilises Editor Coroutines to implement a simple auto save function for Unity scenes. You can set it to auto save at regular intervals (in minutes), save on Play Mode, and also save all open scenes with a single click. Installation is designed to be simple, and one-time.
 
 ## IMPORTANT NOTE
-If you see and error in the console similar to the following:
+If, while entering playmode, you have any objects selected in the scene window or hierarchy, You may see an error in the console similar to the following:
 NullReferenceException: Object reference not set to an instance of an object
 UnityEditor.GameObjectInspector.ClearPreviewCache () at [some asset ID will be shown here]
-#### This is benign and likely due to a Unity bug. Reimporting your project or clearing the library folder will remove this error.
+#### This is benign and likely due to a Unity bug. Read more <a href = "https://answers.unity.com/questions/1610979/nullreferenceexception-on-gameobjectinspector-edit.html">here. </a>
  
  
  

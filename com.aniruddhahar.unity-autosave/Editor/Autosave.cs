@@ -161,7 +161,7 @@ public class Autosave : EditorWindow
         if (state == PlayModeStateChange.ExitingEditMode)
         {
 
-            // SavePrefs();
+            SavePrefs();
 
             if (saveOnPlay)
             {
